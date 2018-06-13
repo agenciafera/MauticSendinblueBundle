@@ -1,10 +1,10 @@
 <?php
 
 /*
- * @copyright	2018 Fera Contributors. All rights reserved
- * @author		Fera
+ * @copyright	2018 Agência Fera Contributors. All rights reserved
+ * @author		Agência Fera
  *
- * @link        http://Fera.ag
+ * @link        https://fera.ag
  *
  * @license     GNU/GPLv3 http://www.gnu.org/licenses/gpl-3.0.html
  */
