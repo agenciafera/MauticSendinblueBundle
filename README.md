@@ -9,11 +9,11 @@ O principal objetivo é melhorar a qualidade da campanha e simplificar o process
 
 1 - Clone ou faça o download do plugin.
 
-2 - Cole a pasta _MauticSendinblueBundle_ dentro da pasta /plugins localizada na raíz da instalação do seu Mautic.
+2 - Cole a pasta _MauticSendinblueBundle_ dentro da pasta _/plugins_ localizada na raíz da instalação do seu Mautic.
 
 3 - Limpe o cache do seu Mautic.
 
-Você pode fazer isso utilizando o comando ```php app/console cache:clear``` ou simplesmente deletando todo conteúdo dentro da pasta _app/cache/_.
+Você pode fazer isso utilizando o comando ```php app/console cache:clear``` ou simplesmente deletando todo conteúdo dentro da pasta _/app/cache/_.
 
 Veja na documentação oficial:
 [https://www.mautic.org/docs/en/tips/troubleshooting.html]()
